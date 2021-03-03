@@ -1,0 +1,44 @@
+<wpml-config>
+<admin-texts>
+<key name="theme_mods_swing">
+    <key name="swing_lite_ctdown_descr" />
+    <key name="swing_lite_ctdown_day_txt" />
+    <key name="swing_lite_ctdown_hour_txt" />
+    <key name="swing_lite_ctdown_min_txt" />
+    <key name="swing_lite_ctdown_sec_txt" />
+    <key name="swing_lite_header_contact_settings" />
+    <key name="swing_lite_social_tabs" />
+    <key name="swing_lite_home_rooms_lists_title_setting" />
+    <key name="swing_lite_home_rooms_lists_text_setting" />
+    <key name="swing_lite_home_about_theme_text_setting" />
+    <key name="swing_lite_home_about_caption_text_setting" />
+    <key name="swing_lite_home_about_main_text_setting" />
+    <key name="swing_lite_home_about_button_label_setting" />
+    <key name="swing_lite_home_service_button_label_setting" />
+    <key name="swing_lite_home_testimonial_title_setting" />
+    <key name="swing_lite_home_testimonial_text_setting" />
+    <key name="swing_lite_home_team_title_setting" />
+    <key name="swing_lite_home_best_in_team_title_setting" />
+    <key name="swing_lite_home_best_in_team_sub_title_setting" />
+    <key name="swing_lite_home_best_in_team_text_setting" />
+    <key name="swing_lite_home_feature_title_setting" />
+    <key name="swing_lite_home_feature_text_setting" />
+    <key name="swing_lite_home_offer_title_setting" />
+    <key name="swing_lite_home_offer_text_setting" />
+    <key name="swing_lite_home_gallery_title_setting" />
+    <key name="swing_lite_home_gallery_text_setting" />
+    <key name="swing_lite_home_video_title_setting" />
+    <key name="swing_lite_home_video_subtitle_setting" />
+    <key name="swing_lite_home_news_offers_title_setting" />
+    <key name="swing_lite_home_news_offers_text_setting" />
+    <key name="swing_lite_home_contact_title_setting" />
+    <key name="swing_lite_home_contact_subtitle_setting" />
+    <key name="swing_lite_home_contact_phone_setting" />
+    <key name="swing_lite_home_contact_address_setting" />
+    <key name="swing_lite_home_contact_email_setting" />
+    <key name="swing_lite_footer_content" />
+    <key name="swing_lite_room_listing_main_title_setting" />
+    <key name="swing_lite_room_listing_main_subtitle_setting" />
+</key>
+</admin-texts>
+</wpml-config>

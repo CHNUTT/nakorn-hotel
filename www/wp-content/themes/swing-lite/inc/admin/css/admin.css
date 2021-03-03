@@ -1,0 +1,115 @@
+
+/* icon in metabox post type */
+
+/*Icon*/
+#ed-font-awesome-list{
+   margin-bottom: 10px 
+}
+#ed-font-awesome-list ul{
+   text-align: center; 
+   height: 300px; 
+   overflow-y:scroll; 
+   position: relative; 
+   border:1px solid #EEE; 
+   margin: 0
+}
+.ed-font-icon-selector{ 
+   background: #F6F6F6; 
+   padding: 10px;
+   border:1px solid #EEE; 
+   border-top:none;
+}
+#ed-font-awesome-list li{
+   width:60px;
+   height: 60px; 
+   display: inline-block;
+   margin: 4px;
+   cursor: pointer;
+}
+#ed-font-awesome-list li:hover, 
+#ed-font-awesome-list li.selected{
+   background: #F6F6F6;
+}
+#ed-font-awesome-list li .fa{
+   font-size: 32px;
+   line-height: 60px;
+   color:#000;
+   display: block;
+}
+.icon-receiver {
+   background: none repeat scroll 0 0 #f6f6f6;
+   display: block;
+   font-size: 32px;
+   text-align: center;
+}
+.icon-receiver .fa{
+   margin: 10px;
+}
+input.small-text[type="number"]{
+   width: 110px;
+   padding: 3px 5px;
+}
+.ed-font-icon-selector{
+   text-align: center;
+}
+.ed-font-icon-selector .button{
+   width: 80%;
+}
+.ourteam-table label, 
+.revslider_settings .setting_text,
+.pricing-table label
+{
+   width: 150px;
+   margin-right: 7px;
+}
+.ourteam-table label,
+.ourteam-table input{
+   display: inline-block;
+   margin-bottom: 10px;
+}
+.pricing-table label,
+.pricing-table input{
+   display: inline-block;
+   margin-bottom: 10px;
+}
+.revslider_settings .setting_text,
+.revslider_settings .setting_input{
+   display: inline-block;
+}
+
+
+/**
+* Upgred To Pro
+*/
+.control-section-swing{
+ display: block !important;
+}
+#customize-theme-controls .control-section-swing h3.accordion-section-title {
+   background: #0073aa !important;
+   color: #FFF !important;
+   border: 0;
+}
+.control-section-swing .accordion-section-title .button {
+   margin-top: -4px;
+   margin-left: 8px;
+   border: none;
+   color: #fff;
+   background: #28c503;
+   box-shadow: none;
+}
+
+.about-wrap .more-stuffs.three-col .support-process.col:last-child{
+  background: none;
+}
+
+.about-wrap .more-stuffs.three-col .support-process.col:last-child{
+  color: #444;
+}
+
+.about-wrap .more-stuffs.three-col .support-process.col:last-child h3{
+  color: #444;
+}
+
+span.active img {
+    border: 1px solid #d8c9c9;
+}

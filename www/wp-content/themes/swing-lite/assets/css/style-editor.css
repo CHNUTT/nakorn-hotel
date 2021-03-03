@@ -1,0 +1,70 @@
+/*=============================================*/
+.editor-post-title__block .editor-post-title__input{
+    font-family: 'Karla', sans-serif;
+}
+
+.editor-styles-wrapper{
+    font-family: 'Karla', sans-serif;
+}
+
+.editor-styles-wrapper ul, .editor-styles-wrapper ol{
+    font-family: 'Karla', sans-serif;
+}
+
+.wp-block-code .editor-plain-text{
+    font-family: 'Karla', sans-serif;
+}
+
+.wp-block-pullquote p{
+    font-size: 28px;
+    font-family: 'Karla', sans-serif;
+}
+
+.wp-block-preformatted pre{
+    font-family: "Courier 10 Pitch", Courier, monospace;
+    font-size: 15px;
+}
+
+.editor-styles-wrapper p {
+    font-size: 16px;
+    font-family: 'Karla', sans-serif;
+}
+
+/*=============================================
+=            Heading Typography            =
+=============================================*/
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #6a6560;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2.25rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+h4 {
+    font-size: 1.75rem
+}
+
+h5 {
+    font-size: 1.5rem;
+}
+
+h6 {
+    font-size: 1.25rem;
+}

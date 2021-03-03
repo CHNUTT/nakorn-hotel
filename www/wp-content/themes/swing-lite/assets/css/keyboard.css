@@ -1,0 +1,396 @@
+.main-navigation ul ul li:focus > ul {
+	left: 100%;
+}
+
+.main-navigation ul li:focus > ul {
+	left: auto;
+}
+
+.entry-title a:focus,
+.page-title a:focus{
+	color:#d46e4e;
+}
+
+.header-top-content .right-content > div a:focus{
+	color: #fff;
+	background: #d77b5c;
+	border-color:#d77b5c; 
+}
+
+.swing-nav .nav ul li > a:focus{
+	color: #d77b5c;
+}
+
+.swing-nav .nav ul li.menu-item-has-children:focus-within > .sub-menu{
+	visibility: visible;
+	opacity: 1;
+	margin: 0px 0 0;
+}
+
+.over-slider-header .swing-nav .nav ul li a:focus,
+.over-slider-header .swing-nav .nav ul li .sub-menu a:focus{
+	color:#d77b5c; 
+}
+
+.banner_class .content .link a:focus{
+	background: #2d2a27;	
+}
+
+.about-class .home-about-features-images:focus img,
+.about-content-area .services:focus .rooms-thumbnail img{
+	transform: scale(1.15);
+	-webkit-transform: scale(1.15);
+	-moz-transform: scale(1.15);
+}
+
+.about-class .home-about-features-images:focus:before, 
+.about-class .home-about-features-images:focus:after,
+.about-content-area .services:focus:before,
+.about-content-area .services:focus:after {
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: all 0.5s ease-out 0s;
+	-o-transition: all 0.5s ease-out 0s;
+	transition: all 0.5s ease-out 0s;
+}
+
+.about-class .home-about-features-images:focus .about-feature-service-title{
+	bottom:30px;
+}
+
+.about-class  .button-links a:focus,
+.rooms-lists-wrapper .view-all-roms a:focus,
+.service-wrapper .button-links a:focus{
+	background:#d46e4e;
+	border-color: #d46e4e;;
+	color:#fff; 
+}
+
+.rooms-lists-wrapper .rooms .hb_room .summary:focus .media a:before{
+	border-bottom-width: 185px;
+	border-left-width: 185px;
+}
+
+.rooms-lists-wrapper .summary .title h4 a:focus{
+	color: #e6ac4e;
+}
+
+.rooms .hb_room .summary:focus .sc-wrapper .rooms-features-wrapper .price {
+	transform: translate(0, 0);
+	-webkit-transform: translate(0, 0);
+	-moz-transform: translate(0, 0);
+	-ms-transform: translate(0, 0);
+	-o-transform: translate(0, 0);
+}
+
+.rooms:focus .owl-nav .owl-prev,
+.rooms:focus .owl-nav .owl-next{
+	opacity: 1;
+	visibility: visible;
+}
+
+.testimonials-items:focus .owl-nav .owl-prev,
+.testimonials-items:focus .owl-nav .owl-next{
+	opacity: 1;
+	visibility: visible;
+}
+
+.teams:focus .team-image .team-social-links{
+	opacity: 1;
+	visibility: visible;
+	bottom: 0;
+}
+
+.teams:focus .team-title{
+	background:#d77b5d;
+}
+.teams:focus .s-team-title,
+.teams:focus .s-team-label{
+	color:#fff;
+}
+
+.team-wrapper .owl-nav .owl-prev:focus,
+.team-wrapper .owl-nav .owl-next:focus{
+	background: #eee;
+}
+
+.special-offer-wrap:focus .special-offer-image img{
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
+
+.special-offer-wrap:focus .special-offer-image:before{
+	opacity: 1;
+	visibility: visible;
+}
+
+.special-offer-content .read-more a:focus{
+	background:#dc6b46;
+}
+
+.news-offers-wrapper .news-offers:focus  .overlay{
+	background: rgba(235,112,126,0.6);
+}
+
+.news-offers-wrapper .news-offers:focus .events-title,
+.news-offers-wrapper .news-offers:focus .events-title a,
+.news-offers-wrapper .news-offers:focus .events-desc a,
+.news-offers-wrapper .news-offers:focus .post-attributes span.post-date,
+.news-offers-wrapper .news-offers:focus .post-attributes span.post-author a,
+.scrollup:focus{
+	color:#fff;
+}
+
+.gallery-wrapper .grid-item a:focus:before{
+	opacity: 1;
+	visibility: visible;
+}
+
+.gallery-wrapper .grid-item a:focus img{
+	-webkit-transform: scale(1.03);
+	transform: scale(1.03);
+}
+
+.gallery-wrapper .grid-item a:focus .button-plus{
+	visibility: visible;
+	opacity: 1;
+}
+
+.s-contact-form form input[type=submit]:focus{
+	background:#494c50;
+	color:#fff;
+	border: 2px solid #494c50;
+}
+
+.footer-content .apss-theme-4 .apss-single-icon a:focus .apss-icon-block:after{
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+.list-layout .rooms-loops:focus .image-wrapper .rooms-thumbnail img{
+	-webkit-transform: scale(1.02);
+	transform: scale(1.02);
+}
+
+.list-layout  .rooms-features-wrapper .rooms-title h3 a:focus,
+.grid-layout .rooms-title h3 a:focus,
+.hb_related_other_room.has_slider .rooms-title h3 a:focus{
+	color: #d77b5d;
+}
+
+.s-rooms-price a:focus{
+	background: #d77b5d;
+}
+.s-rooms-price a:focus,
+.s-rooms-price a:focus span{
+	color:#fff;
+}
+
+.widget_search.widget input[type="submit"]:focus,
+.price_slider_wrapper button[type="submit"]:focus,
+.woocommerce  a.button:focus,
+.woocommerce  input[type="submit"]:focus,
+.woocommerce #review_form #respond .form-submit input:focus,
+#hotel-booking-results form .hb_button.hb_checkout:focus, 
+#hotel-booking-results form button.hb_add_to_cart:focus, 
+#hotel-booking-results form button[type="submit"]:focus,
+.widget .hotel_booking_mini_cart .hb_mini_cart_footer .hb_button:focus,
+#hotel-booking-cart .hb_button.hb_checkout:focus, 
+#hotel-booking-payment .hb_button.hb_checkout:focus, 
+#hotel-booking-cart button[type="submit"]:focus, 
+#hotel-booking-payment button[type="submit"]:focus,
+#hotel-booking-cart button[type="button"]:focus,
+#hotel-booking-payment button[type="button"]:focus,
+.hb_single_room #reviews #review_form_wrapper form .form-submit input[type="submit"]:focus,
+.error404 input[type="submit"]:focus,
+.widget .hb-submit button[type="submit"]:focus,
+.special-offer-template-default.single .wpcf7-form p input[type="submit"]:focus,
+.contact-page .panel-layout form input[type=submit]:focus,
+.comments-area form input[type=submit]:focus,
+.navigation .nav-links a:focus,
+article footer .comments-link a:focus,
+.hotel-booking-search .hb-submit button[type="submit"]:focus,
+.no-results.not-found input[type="submit"]:focus{
+	border: 1px solid #222;
+	background: #222;
+	color:#FFF; 
+}
+
+.widget.widget_categories ul li a:focus,
+.widget.widget_archive ul li a:focus,
+.widget.widget_pages ul li a:focus,
+.widget.widget_meta ul li a:focus,
+.widget_recent_entries ul li a:focus,
+.widget_nav_menu ul li a:focus,
+.widget_calendar tfoot a:focus,
+.widget_recent_comments ul li a:focus, 
+.widget_rss ul li a:focus,
+.widget_swing_lite_ourrooms_simple .post-title a:focus{
+	color:#d46e4e;
+}
+
+.woocommerce .widget_shopping_cart .cart_list li a.remove:focus, 
+.woocommerce.widget_shopping_cart .cart_list li a.remove:focus{
+	background:#d46e4e;
+	color: #fff ! important;
+}
+
+.woocommerce .widget_product_tag_cloud .tagcloud a:focus{
+	background: #D46E4E;
+	color: #FFF;
+	border: solid 1px #D46E4E;
+}
+
+.woocommerce.woocommerce-page .content-area ul.products li.product .add_to_cart_button:focus, 
+.woocommerce.woocommerce-page .content-area ul.products li.product .product_type_simple:focus, 
+.woocommerce .cart .coupon input.button[type="submit"]:focus, 
+.woocommerce .place-order .button.alt:focus, 
+.widget_shopping_cart_content a.button:focus,
+.widget_price_filter .price_slider_amount button[type=submit]:focus, 
+.woocommerce .cart button[type=submit].single_add_to_cart_button:focus{
+	color:#d77b5d;
+	border-color:#d77b5d;
+	background:#fff;
+}
+
+.woocommerce ul.products li.product:focus a .s-p-wrapper img{
+	-webkit-transform: scale(1.03);
+	transform: scale(1.03);
+}
+
+.widget .hotel_booking_mini_cart .hb_mini_cart_item .hb_mini_cart_remove:focus{
+	background: transparent;
+	color: #999;
+}
+
+.rooms-pagination .page-numbers li a:focus{
+	background: #d77b5d;
+	color:#fff;
+}
+
+.rooms-pagination .page-numbers li a.next:focus, 
+.rooms-pagination .page-numbers li a.prev:focus{
+	color:#d77b5d;
+}
+
+.hb-booking-room-details .hb_search_room_item_detail_price_close:focus{
+	background:#d77b5d;
+}
+
+#hotel-booking-cart .hb_remove_cart_item:focus, #hotel-booking-payment .hb_remove_cart_item:focus{
+	color: #d46e4e;
+}
+
+.page-template-template-about  .rooms-loops:focus .rooms-thumbnail img{
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+}
+
+.page-template-template-about .rooms-title a:focus{
+	color:#d77b5d; 
+}
+
+.page-template-template-activities .rooms-loops:focus img{
+	-webkit-transform: scale(1.02);
+	transform: scale(1.02);
+}
+
+.page-template-template-activities .rooms-loops .rooms-title h3 a:focus{
+	color: #d77b5d;
+}
+
+.comment-respond .form-submit input[type=submit]#submit:focus{
+	background: #d77b5d;
+	color: #FFF;
+}
+
+.widget_tag_cloud .tagcloud a:focus{
+	color: #FFF;
+	background: #d46e4e;
+}
+
+.woocommerce a.added_to_cart:focus{
+	background: #000;
+}
+
+.woocommerce-cart table.cart a.remove:focus:after{
+	color: #d46e4e;
+}
+
+.woocommerce .cart .actions .button:focus{
+	background: #D46E4E;
+	color: #FFF;
+}
+
+.woocommerce-cart table.cart a.remove:focus:after{
+	color: #d46e4e;
+}
+
+.woocommerce .cart .actions .button:focus{
+	background: #D46E4E;
+	color: #FFF;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul li:focus a{
+	padding-left: 15px;
+	color: #d46e4e;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul li:focus a:after{
+	width: 8px;
+}
+
+.woocommerce-account .entry-content .woocommerce form button:focus{
+	background: #d77b5d;
+	color: #FFF;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul li:focus a{
+	padding-left: 15px;
+}
+
+.woocommerce .woocommerce-MyAccount-navigation ul li:focus a:after{
+	width: 8px;
+}
+
+.services .rooms-thumbnail:focus:before,
+.services .rooms-thumbnail:focus:after{
+	-webkit-transform: scale(1);
+	-ms-transform: scale(1);
+	-o-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: all 0.5s ease-out 0s;
+	-o-transition: all 0.5s ease-out 0s;
+	transition: all 0.5s ease-out 0s;
+}
+
+.services .rooms-thumbnail:focus img{
+	-webkit-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
+.services .rooms-thumbnail:focus + .features-content{
+	-webkit-transform: translateY(-10px);
+	-moz-transform: translateY(-10px);
+	-ms-transform: translateY(-10px);
+	-o-transform: translateY(-10px);
+	transform: translateY(-10px);
+}
+
+.contact-wrapper.siteorigin-panels-stretch .s-contact-form form input[type=submit]:focus{
+    color: #FFF;
+    background: #333;
+    border-color: #333;
+}
+
+.logged-in-as a:last-of-type:focus{
+    text-decoration: underline;
+}
+
+.tags-links a:focus{
+    color: #333;
+}
